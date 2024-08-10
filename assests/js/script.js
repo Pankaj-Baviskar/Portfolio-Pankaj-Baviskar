@@ -54,7 +54,7 @@ function(){
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
    //   strings: ["Data Analytics","Machine Learning","Data Science","front end development"],
-	strings: ["Data Analytics","Web development"],
+	strings: ["Data Analytics","Web development","Software Development"],
         loop: true,
         typeSpeed: 50, 
 		backSpeed: 25, 
